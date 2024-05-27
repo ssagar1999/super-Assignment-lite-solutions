@@ -6,7 +6,7 @@ export const referenceList = [
     price: 22.22,
     image: "https://i.pinimg.com/736x/13/bc/49/13bc49700e9eb3ad5befa4b466de7515.jpg",
     youTubeId: "",
-    type: "info",
+    type: "book",
     description: "The Saiyan Saga is the first saga from the Dragon Ball Z series. The saga details the arrival of the Saiyans, Raditz, Nappa, and Vegeta, who come to Earth to find the Dragon Balls and achieve immortality.",
     externalLink: "https://dragonball.fandom.com/wiki/Saiyan_Saga",
     inCart: true
