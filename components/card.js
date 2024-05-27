@@ -13,7 +13,7 @@ export const card = (object) => {
       style="background:black; color:white"
     >
       <h5 class="card-title">${object.title}</h5>
-      <b>${object.price <= 0 ? 'FREE' : `$${object.price}`}</b><br />
+      <b>${object.price <= 0 ? 'FREE' : `₹${object.price}`}</b><br />
       ${object.inCart ? `<button type="button" class="btn">
       <i id="fav-btn--${object.id}" class="fa fa-shopping-cart" style="color:gray;font-size:35px;"></i>
     </button>` : 
